@@ -1,0 +1,9 @@
+Summary:
+  Successful: 500
+  Errors: 0
+  Revisions needed: 484
+
+Token Usage Statistics:
+  Total tokens used: 1,652,516
+  Average tokens per conversation: 3305.03
+  Successful conversations processed: 500
