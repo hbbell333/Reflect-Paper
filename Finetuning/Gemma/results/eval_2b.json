@@ -1,0 +1,62 @@
+[
+  {
+    "checkpoint": "checkpoint_step_120",
+    "checkpoint_dir": "outputs/gemma_2b/checkpoints/checkpoint_step_120",
+    "samples_seen": 960,
+    "mean_kl": 0.897101640701294,
+    "median_kl": 0.7556448578834534,
+    "max_kl": 6.1932196617126465,
+    "pairwise_checkpoint_winrate": 0.7772151898734178,
+    "pairwise_base_winrate": 0.22278481012658227,
+    "pairwise_valid": 395,
+    "pairwise_invalid": 5
+  },
+  {
+    "checkpoint": "checkpoint_step_240",
+    "checkpoint_dir": "outputs/gemma_2b/checkpoints/checkpoint_step_240",
+    "samples_seen": 1920,
+    "mean_kl": 1.0626301765441895,
+    "median_kl": 0.9019051194190979,
+    "max_kl": 6.60751485824585,
+    "pairwise_checkpoint_winrate": 0.8564231738035264,
+    "pairwise_base_winrate": 0.14357682619647355,
+    "pairwise_valid": 397,
+    "pairwise_invalid": 3
+  },
+  {
+    "checkpoint": "checkpoint_step_360",
+    "checkpoint_dir": "outputs/gemma_2b/checkpoints/checkpoint_step_360",
+    "samples_seen": 2880,
+    "mean_kl": 1.082605004310608,
+    "median_kl": 0.9210934042930603,
+    "max_kl": 7.01943826675415,
+    "pairwise_checkpoint_winrate": 0.8632911392405064,
+    "pairwise_base_winrate": 0.13670886075949368,
+    "pairwise_valid": 395,
+    "pairwise_invalid": 5
+  },
+  {
+    "checkpoint": "checkpoint_step_480",
+    "checkpoint_dir": "outputs/gemma_2b/checkpoints/checkpoint_step_480",
+    "samples_seen": 3840,
+    "mean_kl": 1.1247638463974,
+    "median_kl": 0.9578669667243958,
+    "max_kl": 7.218378067016602,
+    "pairwise_checkpoint_winrate": 0.8379746835443038,
+    "pairwise_base_winrate": 0.1620253164556962,
+    "pairwise_valid": 395,
+    "pairwise_invalid": 5
+  },
+  {
+    "checkpoint": "checkpoint_step_600",
+    "checkpoint_dir": "outputs/gemma_2b/checkpoints/checkpoint_step_600",
+    "samples_seen": 4800,
+    "mean_kl": 1.1270545721054077,
+    "median_kl": 0.9609158635139465,
+    "max_kl": 7.240885257720947,
+    "pairwise_checkpoint_winrate": 0.8629441624365483,
+    "pairwise_base_winrate": 0.13705583756345177,
+    "pairwise_valid": 394,
+    "pairwise_invalid": 6
+  }
+]

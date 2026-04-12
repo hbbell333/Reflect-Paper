@@ -1,0 +1,42 @@
+[
+  {
+    "checkpoint": "checkpoint_step_120",
+    "checkpoint_dir": "outputs/gemma_9b/checkpoints/checkpoint_step_120",
+    "samples_seen": 960,
+    "mean_kl": 1.060399055480957,
+    "median_kl": 0.8914396166801453,
+    "max_kl": 4.400204658508301
+  },
+  {
+    "checkpoint": "checkpoint_step_240",
+    "checkpoint_dir": "outputs/gemma_9b/checkpoints/checkpoint_step_240",
+    "samples_seen": 1920,
+    "mean_kl": 1.2460559606552124,
+    "median_kl": 1.0380953550338745,
+    "max_kl": 6.598400115966797
+  },
+  {
+    "checkpoint": "checkpoint_step_360",
+    "checkpoint_dir": "outputs/gemma_9b/checkpoints/checkpoint_step_360",
+    "samples_seen": 2880,
+    "mean_kl": 1.2442827224731445,
+    "median_kl": 1.0468974113464355,
+    "max_kl": 6.599237442016602
+  },
+  {
+    "checkpoint": "checkpoint_step_480",
+    "checkpoint_dir": "outputs/gemma_9b/checkpoints/checkpoint_step_480",
+    "samples_seen": 3840,
+    "mean_kl": 1.312780737876892,
+    "median_kl": 1.1028536558151245,
+    "max_kl": 7.8543524742126465
+  },
+  {
+    "checkpoint": "checkpoint_step_600",
+    "checkpoint_dir": "outputs/gemma_9b/checkpoints/checkpoint_step_600",
+    "samples_seen": 4800,
+    "mean_kl": 1.3209644556045532,
+    "median_kl": 1.1114689111709595,
+    "max_kl": 7.987630367279053
+  }
+]
