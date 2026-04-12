@@ -1,0 +1,191 @@
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_const2_gpt4.1mini_safeRLHF.json
+Comparison File: EVAL_NEW_efficient_GPT_safeRLHF_const2_20251018_173052.json
+
+Loaded 500 paired scores
+Baseline mean: 4.5537
+Comparison mean: 4.6517
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.0980
+  95% CI: [0.0508, 0.1487]
+  p-value: 0.0000
+Comparison is 0.0980 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_const2_claude_haiku3.5_safeRLHF_ICL.json
+Comparison File: EVAL_NEW_efficient_CLAUDE_safeRLHF_const2_20251018_173618.json
+
+Loaded 499 paired scores
+Baseline mean: 2.8971
+Comparison mean: 4.1555
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 1.2584
+  95% CI: [1.1321, 1.3801]
+  p-value: 0.0000
+Comparison is 1.2584 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_base_mistral_safeRLHF_ICL_20251221_172546.json
+Comparison File: EVAL_safeRLHF_MISTRAL_reflect_results_20251220_212044_20251221_172057.json
+
+Loaded 500 paired scores
+Baseline mean: 4.5927
+Comparison mean: 4.6282
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.0355
+  95% CI: [0.0122, 0.0568]
+  p-value: 0.0013
+Comparison is 0.0355 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_const2_gpt4.1mini_anthharm_ICL.json
+Comparison File: EVAL_NEW_efficient_GPT_anthharm_const2_20251018_173459.json
+
+Loaded 500 paired scores
+Baseline mean: 4.2290
+Comparison mean: 4.5954
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.3664
+  95% CI: [0.3262, 0.4092]
+  p-value: 0.0000
+Comparison is 0.3664 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_const2_claude_haiku3.5_anthharm_ICL.json
+Comparison File: EVAL_NEW_efficient_CLAUDE_anthharm_const2_20251018_173657.json
+
+Loaded 500 paired scores
+Baseline mean: 3.9500
+Comparison mean: 4.4208
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.4708
+  95% CI: [0.4188, 0.5250]
+  p-value: 0.0000
+Comparison is 0.4708 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_mistral_anthharm_ICL_20260110_110021.json
+Comparison File: EVAL_MISTRAL_reflect_anthharm_results_20251223_051510_20251223_133013.json
+
+Loaded 500 paired scores
+Baseline mean: 3.9568
+Comparison mean: 4.1772
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.2204
+  95% CI: [0.1914, 0.2504]
+  p-value: 0.0000
+Comparison is 0.2204 points better on average
+
+======================================================================
+
+Test Type: violation proportions
+Baseline File: RECODED_EVAL_const2_gpt4.1mini_safeRLHF.json
+Comparison File: RECODED_EVAL_NEW_efficient_GPT_safeRLHF_const2_20251018_173052.json
+
+Loaded 500 paired scores
+Baseline mean: 0.0772
+Comparison mean: 0.0345
+
+Bootstrap Test Results:
+  Mean difference (baseline - comparison): 0.0427
+  95% CI: [0.0312, 0.0553]
+  p-value: 0.0000
+Comparison has 0.0427 fewer violations on average (better)
+
+======================================================================
+
+Test Type: violation proportions
+Baseline File: RECODED_EVAL_const2_claude_haiku3.5_safeRLHF_ICL.json
+Comparison File: RECODED_EVAL_NEW_efficient_CLAUDE_safeRLHF_const2_20251018_173618.json
+
+Loaded 499 paired scores
+Baseline mean: 0.4724
+Comparison mean: 0.1326
+
+Bootstrap Test Results:
+  Mean difference (baseline - comparison): 0.3398
+  95% CI: [0.3058, 0.3731]
+  p-value: 0.0000
+Comparison has 0.3398 fewer violations on average (better)
+
+======================================================================
+
+Test Type: violation proportions
+Baseline File: RECODED_EVAL_base_mistral_safeRLHF_ICL_20251221_172546.json
+Comparison File: RECODED_EVAL_safeRLHF_MISTRAL_reflect_results_20251220_212044_20251221_172057.json
+
+Loaded 500 paired scores
+Baseline mean: 0.0402
+Comparison mean: 0.0292
+
+Bootstrap Test Results:
+  Mean difference (baseline - comparison): 0.0110
+  95% CI: [0.0050, 0.0165]
+  p-value: 0.0001
+Comparison has 0.0110 fewer violations on average (better)
+
+======================================================================
+
+Test Type: violation proportions
+Baseline File: RECODED_EVAL_const2_gpt4.1mini_anthharm_ICL.json
+Comparison File: RECODED_EVAL_NEW_efficient_GPT_anthharm_const2_20251018_173459.json
+
+Loaded 500 paired scores
+Baseline mean: 0.1036
+Comparison mean: 0.0200
+
+Bootstrap Test Results:
+  Mean difference (baseline - comparison): 0.0836
+  95% CI: [0.0722, 0.0956]
+  p-value: 0.0000
+Comparison has 0.0836 fewer violations on average (better)
+
+======================================================================
+
+Test Type: violation proportions
+Baseline File: RECODED_EVAL_const2_claude_haiku3.5_anthharm_ICL.json
+Comparison File: RECODED_EVAL_NEW_efficient_CLAUDE_anthharm_const2_20251018_173657.json
+
+Loaded 500 paired scores
+Baseline mean: 0.1686
+Comparison mean: 0.0600
+
+Bootstrap Test Results:
+  Mean difference (baseline - comparison): 0.1086
+  95% CI: [0.0940, 0.1238]
+  p-value: 0.0000
+Comparison has 0.1086 fewer violations on average (better)
+
+======================================================================
+
+Test Type: violation proportions
+Baseline File: RECODED_EVAL_mistral_anthharm_ICL_20260110_110021.json
+Comparison File: RECODED_EVAL_MISTRAL_reflect_anthharm_results_20251223_051510_20251223_133013.json
+
+Loaded 500 paired scores
+Baseline mean: 0.1384
+Comparison mean: 0.0766
+
+Bootstrap Test Results:
+  Mean difference (baseline - comparison): 0.0618
+  95% CI: [0.0526, 0.0712]
+  p-value: 0.0000
+Comparison has 0.0618 fewer violations on average (better)

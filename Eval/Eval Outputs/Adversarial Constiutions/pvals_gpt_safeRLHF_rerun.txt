@@ -1,0 +1,15 @@
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_const2_gpt4.1mini_safeRLHF.json
+Comparison File: EVAL_rerun_GPT_extra_tokens_safeRLHF_20260405_130521_20260405_151440.json
+
+Loaded 500 paired scores
+Baseline mean: 4.5537
+Comparison mean: 4.9750
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.4213
+  95% CI: [0.3775, 0.4720]
+  p-value: 0.0000
+Comparison is 0.4213 points better on average

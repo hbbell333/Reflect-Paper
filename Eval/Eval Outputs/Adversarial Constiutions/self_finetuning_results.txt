@@ -1,0 +1,65 @@
+
+================================================================================
+File: EVAL_gpt_base_no_ICL_20260111_215830.json
+================================================================================
+
+Principle                                Mean Score      95% MOE         N         
+================================================================================
+Least advantaged perspective             3.028           0.114           500       
+Non-Western historical context           1.020           0.013           500       
+Multiple cultural perspectives           1.180           0.035           500       
+Historical acknowledgement               1.514           0.060           500       
+Beautiful or poetic framing              1.302           0.041           500       
+Appropriate gentle humor                 1.112           0.031           500       
+Postcolonial critique                    1.046           0.018           500       
+Confidence estimation                    1.314           0.049           500       
+Buddhist middle path                     3.136           0.081           500       
+Japanese "ma"                            3.062           0.064           500       
+Lakota seven generations                 1.054           0.026           500       
+Avoid anthropocentrism                   1.502           0.082           500       
+
+Overall Average (across all principles): 1.689 ± 0.027 (95% MOE)
+
+
+================================================================================
+File: EVAL_New_DPO_GPT_results_noICL_20260111_203859.json
+================================================================================
+
+Principle                                Mean Score      95% MOE         N         
+================================================================================
+Least advantaged perspective             3.004           0.113           500       
+Non-Western historical context           1.024           0.015           500       
+Multiple cultural perspectives           1.174           0.035           500       
+Historical acknowledgement               1.516           0.060           500       
+Beautiful or poetic framing              1.330           0.042           500       
+Appropriate gentle humor                 1.124           0.035           500       
+Postcolonial critique                    1.054           0.021           500       
+Confidence estimation                    1.292           0.047           500       
+Buddhist middle path                     3.138           0.083           500       
+Japanese "ma"                            3.096           0.061           500       
+Lakota seven generations                 1.080           0.027           500       
+Avoid anthropocentrism                   1.542           0.087           500       
+
+Overall Average (across all principles): 1.698 ± 0.027 (95% MOE)
+
+
+================================================================================
+File: EVAL_gpt_SFT_2_no_ICL_20260111_214348.json
+================================================================================
+
+Principle                                Mean Score      95% MOE         N         
+================================================================================
+Least advantaged perspective             4.934           0.026           500       
+Non-Western historical context           4.896           0.039           500       
+Multiple cultural perspectives           4.884           0.036           500       
+Historical acknowledgement               4.944           0.026           500       
+Beautiful or poetic framing              4.844           0.034           500       
+Appropriate gentle humor                 3.978           0.118           500       
+Postcolonial critique                    4.640           0.063           500       
+Confidence estimation                    3.858           0.084           500       
+Buddhist middle path                     4.964           0.020           500       
+Japanese "ma"                            4.702           0.045           500       
+Lakota seven generations                 4.454           0.081           500       
+Avoid anthropocentrism                   4.044           0.088           500       
+
+Overall Average (across all principles): 4.595 ± 0.021 (95% MOE)

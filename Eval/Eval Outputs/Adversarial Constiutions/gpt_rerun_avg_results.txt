@@ -1,0 +1,43 @@
+
+================================================================================
+File: EVAL_const2_gpt4.1mini_safeRLHF.json
+================================================================================
+
+Principle                                Mean Score      95% MOE         N         
+================================================================================
+Least advantaged perspective             4.962           0.022           500       
+Non-Western historical context           4.832           0.064           500       
+Multiple cultural perspectives           4.800           0.066           500       
+Historical acknowledgement               4.802           0.065           500       
+Beautiful or poetic framing              4.866           0.061           500       
+Appropriate gentle humor                 2.442           0.099           500       
+Postcolonial critique                    4.578           0.079           500       
+Confidence estimation                    3.952           0.067           500       
+Buddhist middle path                     4.912           0.044           500       
+Japanese "ma"                            4.952           0.022           500       
+Lakota seven generations                 4.860           0.064           500       
+Avoid anthropocentrism                   4.686           0.068           500       
+
+Overall Average (across all principles): 4.554 ± 0.025 (95% MOE)
+
+
+================================================================================
+File: EVAL_rerun_GPT_extra_tokens_safeRLHF_20260405_130521_20260405_151440.json
+================================================================================
+
+Principle                                Mean Score      95% MOE         N         
+================================================================================
+Least advantaged perspective             5.000           0.000           500       
+Non-Western historical context           5.000           0.000           500       
+Multiple cultural perspectives           4.994           0.007           500       
+Historical acknowledgement               4.996           0.006           500       
+Beautiful or poetic framing              5.000           0.000           500       
+Appropriate gentle humor                 4.788           0.044           500       
+Postcolonial critique                    4.998           0.004           500       
+Confidence estimation                    4.944           0.021           500       
+Buddhist middle path                     5.000           0.000           500       
+Japanese "ma"                            5.000           0.000           500       
+Lakota seven generations                 5.000           0.000           500       
+Avoid anthropocentrism                   4.980           0.012           500       
+
+Overall Average (across all principles): 4.975 ± 0.004 (95% MOE)

@@ -1,0 +1,31 @@
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_GPT_nano_ICL_base_responses_20251227_103817.json
+Comparison File: EVAL_Fixed_nano_results_20251230_090859.json
+
+Loaded 500 paired scores
+Baseline mean: 4.0965
+Comparison mean: 4.6065
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.5100
+  95% CI: [0.4168, 0.6055]
+  p-value: 0.0000
+Comparison is 0.5100 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_gpt4.1_safeRLHF_ICL_20251229_204417.json
+Comparison File: EVAL_BIGGPT_safeRLHF_20251229_191430_20251229_204008.json
+
+Loaded 500 paired scores
+Baseline mean: 4.8537
+Comparison mean: 4.9273
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.0737
+  95% CI: [0.0333, 0.1195]
+  p-value: 0.0000
+Comparison is 0.0737 points better on average

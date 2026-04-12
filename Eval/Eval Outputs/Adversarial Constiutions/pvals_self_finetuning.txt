@@ -1,0 +1,31 @@
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_gpt_base_no_ICL_20260111_215830.json
+Comparison File: EVAL_New_DPO_GPT_results_noICL_20260111_203859.json
+
+Loaded 500 paired scores
+Baseline mean: 1.6892
+Comparison mean: 1.6978
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 0.0087
+  95% CI: [-0.0068, 0.0243]
+  p-value: 0.1339
+Comparison is 0.0087 points better on average
+
+======================================================================
+
+Test Type: average scores
+Baseline File: EVAL_gpt_base_no_ICL_20260111_215830.json
+Comparison File: EVAL_gpt_SFT_2_no_ICL_20260111_214348.json
+
+Loaded 500 paired scores
+Baseline mean: 1.6892
+Comparison mean: 4.5952
+
+Bootstrap Test Results:
+  Mean difference (comparison - baseline): 2.9060
+  95% CI: [2.8642, 2.9468]
+  p-value: 0.0000
+Comparison is 2.9060 points better on average
