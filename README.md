@@ -12,10 +12,10 @@ Before running a full cycle of critique and revision, the model first evaluates 
 **Critique and Revision**
 During critique and revision the model is prompted to first generate a critique of it's base response and then to revise it based on the critique. The model's critique is only based on the principles that were flagged in step 2. The model can repeat steps 2-3 any number of times, stopping either when no principle falls below the threshold, or after a user-defined (though often one round is sufficient).  
 
-<img width="1340" height="1099" alt="reflect_example" src="https://github.com/user-attachments/assets/7f06a70c-a988-42de-8240-30c9f4be2495" />
+<img width="1340" height="1099" alt="reflect_example_white_background" src="https://github.com/user-attachments/assets/8438fd2a-6a09-44cc-9165-9848d25c64a8" />
 
 
-If you find this work helpful in your research, please consider our [FAccT paper](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmaestro.acm.org%2Ftrk%2Fclickp%3Fref%3Dz16l2snue3_2-31bd5_0_66x33ae25x0503%26doi%3D3805689.3806454&data=05%7C02%7Chenry.bell%40DUKE.EDU%7Cbfb4f0cf72fa4fd22a9f08ded38d53ab%7Ccb72c54e4a314d9eb14a1ea36dfac94c%7C0%7C0%7C639180801529641735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=onIgJYN6rNyDWUywtYJS7E1pGLnOceUEXZszb41SI88%3D&reserved=0)
+If you find this work helpful in your research, please consider citing our [FAccT paper](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmaestro.acm.org%2Ftrk%2Fclickp%3Fref%3Dz16l2snue3_2-31bd5_0_66x33ae25x0503%26doi%3D3805689.3806454&data=05%7C02%7Chenry.bell%40DUKE.EDU%7Cbfb4f0cf72fa4fd22a9f08ded38d53ab%7Ccb72c54e4a314d9eb14a1ea36dfac94c%7C0%7C0%7C639180801529641735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C60000%7C%7C%7C&sdata=onIgJYN6rNyDWUywtYJS7E1pGLnOceUEXZszb41SI88%3D&reserved=0)
 
 ```bibtex
 @inproceedings{10.1145/3805689.3806454,
